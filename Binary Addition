@@ -1,0 +1,4 @@
+def add_binary(a,b):
+    c = a + b
+    x = bin(c)
+    return x[2:]
